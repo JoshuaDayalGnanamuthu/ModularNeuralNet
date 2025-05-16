@@ -14,7 +14,7 @@ A custom-built modular neural network from scratch using only NumPy to classify 
 
 ##  Dataset
 
-Heart disease dataset from Kaggle: ](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
+Heart disease dataset from Kaggle: (https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 Includes features like age, sex, cholesterol, blood pressure, etc.
 
 ## Performance
